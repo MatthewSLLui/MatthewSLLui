@@ -7,6 +7,7 @@ AI Engineer
 AI Engineer with extensive industry experience working in high-performance projects across training commercial LLMs, a VC-backed health tech startup, and nanotech research.
 
 * 🌍  I'm based in London
+* 🎓  Masters of Electrical Engineering (ML specialisation)
 * ✉️  You can contact me at [mlui20013@gmail.com](mailto:mlui20013@gmail.com)
 * 🚀  I'm currently working on [FeynAI](http://www.github.com/FeynAI/FeynAI)
 * 🧠  I'm learning to build and train LLMs
