@@ -7,7 +7,7 @@ Analyst @trading fintech
 Trading analyst with industry experience working in high-performance projects across institutional trading, prop trading, a VC-backed health tech startup, and nanotech research.
 
 * 🌍  I'm based in London
-* 🎓  Masters of Electrical Engineering (ML specialisation)
+* 🎓  Master of Electrical Engineering (ML specialisation)
 * ✉️  You can contact me at [matthew.s.l.lui@gmail.com](mailto:matthew.s.l.lui@gmail.com)
 
 
