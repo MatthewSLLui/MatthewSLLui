@@ -6,6 +6,8 @@ Analyst @trading fintech
 
 Trading analyst with industry experience working in high-performance projects across institutional trading, prop trading, a VC-backed health tech startup, and nanotech research. Enjoy playing badminton, reading about electrodynamics and listening to classical / jazz in my free time.
 
+I am currently working on an Option Pricer and it is not public yet. 
+
 * 🌍  I'm based in London
 * 🎓  Master of Electrical Engineering (ML + material science specialisation)
 * ✉️  You can contact me at [matthew.s.l.lui@gmail.com](mailto:matthew.s.l.lui@gmail.com)
